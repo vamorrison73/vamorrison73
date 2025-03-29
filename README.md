@@ -1,6 +1,6 @@
-Hi there 👋 I'm Victoria, a Technical Communication student. My only experience with coding is a tiny bit of HTML in high school, so this is all pretty much new to me!
+Hi there 👋 I'm Victoria, a Technical Communication student, barista, and real estate assistant. My only experience with coding is a tiny bit of HTML in high school, so this is all pretty much new to me!
 
-Besides school, I work at Starbucks and am a real estate assistant on the side. I'm a homebody and like to spend my downtime reading, playing video games, doing crosswords, and hanging out in the backyard with my plants and cats.
+I'm definitely a homebody and like to spend my downtime reading, playing video games, doing crosswords, and hanging out in the backyard with my plants and cats.
 
 ![cat](luna-hammock-downsized.jpg)
 ![cat](soda-looking-up-downsized.jpg)
