@@ -2,7 +2,8 @@ Hi there 👋 I'm Victoria, a Technical Communication student. My only experienc
 
 Besides school, I work at Starbucks and am a real estate assistant on the side. I'm a homebody and like to spend my downtime reading, playing video games, doing crosswords, and hanging out in the backyard with my plants and cats.
 
-![cat](IMG_0778.JPEG)
+![cat](luna-hammock-downsized.jpg)
+![cat](soda-looking-up-downsized.jpg)
 
 <!--
 **vamorrison73/vamorrison73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
