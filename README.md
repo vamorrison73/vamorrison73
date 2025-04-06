@@ -4,6 +4,7 @@ I'm Victoria, a Technical Communication student, barista, and real estate assist
 
 I'm definitely a homebody and like to spend my downtime reading, playing video games, doing crosswords, and hanging out in the backyard with my plants and cats. 🌱🐈
 
+<img src="luna-hammock-downsized.jpg" width="500" height="600">
 ![cat](luna-hammock-downsized.jpg)
 ![cat](soda-looking-up-downsized.jpg)
 
